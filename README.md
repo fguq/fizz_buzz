@@ -1,1 +1,4 @@
-## TechCommit 挑戦状【FizzBuzz問題】
+## 【FizzBuzz問題】新しい言語に挑戦する時用の基礎文法確認
+
+※ このファイルはオンラインコミュニティ「TechCommit」の課題のひとつです。
+
